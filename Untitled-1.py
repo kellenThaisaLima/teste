@@ -7,7 +7,7 @@ lista = list(cores)
 for cor in cores: 
     lista.append(cor + "s")
 
-print(lista)
+print(lista) 
 
 # cor in cores:print(list)
 
